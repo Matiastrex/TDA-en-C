@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1727225743 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda lista\listadinamica.c
+	"listaDinamica.h"
+
+1727225743 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda lista\listadinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1727225759 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda lista\main.c
+	"listaDinamica.h"
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1727273548 source:c:\users\matia\downloads\lista_circular\lista_circular\main.c
+	"lista_circular.h"
+
+1727638863 c:\users\matia\downloads\lista_circular\lista_circular\lista_circular.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728413885 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda implementados en lista circular\lista circular\lista_circular.c
+	"lista_circular.h"
+
+1728412979 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda implementados en lista circular\lista circular\lista_circular.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728414069 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda implementados en lista circular\lista circular\main.c
+	"lista_circular.h"
+

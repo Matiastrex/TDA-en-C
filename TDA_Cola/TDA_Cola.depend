@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1726358315 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_cola\coladinamica.c
+	"colaDinamica.h"
+
+1726352253 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_cola\coladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1726353173 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_cola\main.c
+	"producto.h"
+	"colaDinamica.h"
+
+1726356739 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_cola\producto.c
+	"producto.h"
+
+1726358300 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_cola\producto.h
+	<stdio.h>
+	<string.h>
+
+1726358165 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_cola\funcionesfecha.c
+	"funcionesFecha.h"
+
+1726358156 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_cola\funcionesfecha.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1726421073 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda cola\coladinamica.c
+	"colaDinamica.h"
+
+1726422520 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda cola\coladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1726358165 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda cola\funcionesfecha.c
+	"funcionesFecha.h"
+
+1726358156 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda cola\funcionesfecha.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1726434000 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda cola\main.c
+	"producto.h"
+	"pedidos.h"
+	"colaDinamica.h"
+
+1726358300 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda cola\producto.h
+	<stdio.h>
+	<string.h>
+
+1726356739 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda cola\producto.c
+	"producto.h"
+
+1726430357 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda cola\pedidos.c
+	"pedidos.h"
+
+1726430357 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda cola\pedidos.h
+	"funcionesFecha.h"
+	"string.h"
+

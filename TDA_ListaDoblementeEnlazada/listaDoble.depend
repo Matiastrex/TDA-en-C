@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728843251 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_listadoblementeenlazada\listadoble.c
+	"listaDoble.h"
+
+1728843251 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_listadoblementeenlazada\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728841556 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_listadoblementeenlazada\main.c
+	"listaDoble.h"
+

@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1725842994 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\unidad 2. pila\main.c
+	"producto.h"
+	"pilaDinamica.h"
+
+1725841733 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\unidad 2. pila\piladinamica.c
+	"pilaDinamica.h"
+
+1725841297 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\unidad 2. pila\piladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724857774 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\unidad 2. pila\pilaestatica.c
+	"pilaEstatica.h"
+
+1724857774 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\unidad 2. pila\pilaestatica.h
+
+1725843393 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\unidad 2. pila\producto.c
+	"producto.h"
+
+1725843393 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\unidad 2. pila\producto.h
+	<stdio.h>
+	<string.h>
+
+1725827053 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\unidad 2. pila\menu.c
+	"menu.h"
+	"pilaDinamica.c"
+
+1725827035 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\unidad 2. pila\menu.h
+	"pilaDinamica.h"
+	"producto.h"
+
+1725827354 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\unidad 2. pila\producto.c
+	"producto.h"
+
+1725827053 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\unidad 2. pila\menu.c
+	"menu.h"
+	"pilaDinamica.c"
+
+1725826997 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\unidad 2. pila\piladinamica.c
+	"pilaDinamica.h"
+
+1726444914 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda pila\piladinamica.c
+	"pilaDinamica.h"
+
+1726007988 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda pila\piladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724857774 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda pila\pilaestatica.c
+	"pilaEstatica.h"
+
+1724857774 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda pila\pilaestatica.h
+
+1725843393 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda pila\producto.c
+	"producto.h"
+
+1725843393 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda pila\producto.h
+	<stdio.h>
+	<string.h>
+
+1726444193 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda pila\main.c
+	"producto.h"
+	"pilaDinamica.h"
+
