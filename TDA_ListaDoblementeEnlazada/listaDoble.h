@@ -24,6 +24,7 @@ int eliminarDeListaDobleOrdenada(tLista* lista, void* clave, unsigned bytesRegis
 int eliminarDeListaDobleDesordenada(tLista* lista, void* clave, unsigned bytesRegistro,int cmp(const void* a, const void* b));
 void recorrerListaDobleDesdeInicio(tLista* lista, void accion(void* a, void* b));
 void recorrerListaDobleDesdeFinal(tLista* lista, void accion(void* a, void* b));
+int verActual(const tLista* lista, void* buffer, unsigned bytesRegistro);
 
 
 #endif // LISTADOBLE_H_INCLUDED

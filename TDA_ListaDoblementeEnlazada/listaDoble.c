@@ -215,5 +215,15 @@ void recorrerListaDobleDesdeFinal(tLista* lista, void accion(void* a, void* b))
         act = act->ant;
     }
 }
+int verActual(const tLista* lista, void* buffer, unsigned bytesRegistro)
+{
+    if(*lista == NULL)
+    {
+        return 0;
+    }
+    memcpy(buffer,(*lista)->info,MIN(bytesRegistro,(*lista)->tamDato));
+    return 1;
+}
+
 
 
