@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define MINIMO (x,y) ((x)<(y)?(x):(y))
+#define MINIMO(x,y) ((x)<(y)?(x):(y))
 /** ***************************************************************************************************************************************
  **                                     ARBOLES
  ** + Por cantidad de nodos, pueden clasificarse en dos tipos:
