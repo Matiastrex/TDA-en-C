@@ -34,18 +34,10 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="pilaDinamica.c">
+		<Unit filename="pilaEstatica/pilaEstatica.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="pilaDinamica.h" />
-		<Unit filename="pilaEstatica.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="pilaEstatica.h" />
-		<Unit filename="producto.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="producto.h" />
+		<Unit filename="pilaEstatica/pilaEstatica.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

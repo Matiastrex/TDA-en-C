@@ -65,3 +65,62 @@
 	"producto.h"
 	"pilaDinamica.h"
 
+1733333588 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_pila\main.c
+	"producto.h"
+	"pilaDinamica/pilaDinamica.h"
+
+1733333588 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_pila\producto.h
+	<stdio.h>
+	<string.h>
+
+1733332637 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_pila\pilaestatica.c
+	"pilaEstatica.h"
+
+1733333038 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_pila\pilaestatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1733333588 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_pila\producto.c
+	"producto.h"
+
+1733332441 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_pila\piladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1733332441 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_pila\piladinamica.c
+	"pilaDinamica.h"
+
+1733332441 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_pila\piladinamica\piladinamica.c
+	"pilaDinamica.h"
+
+1733332441 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_pila\piladinamica\piladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1733332637 source:c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_pila\pilaestatica\pilaestatica.c
+	"pilaEstatica.h"
+
+1733333038 c:\users\matia\onedrive\matÍas\unlam\segundo cuatrimestre 2024\algoritmos y estructuras de datos\tda_pila\pilaestatica\pilaestatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1733342146 source:c:\users\matia\documents\github\tda-en-c\tda_pila\pilaestatica\pilaestatica.c
+	"pilaEstatica.h"
+
+1733344861 c:\users\matia\documents\github\tda-en-c\tda_pila\pilaestatica\pilaestatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1733345005 source:c:\users\matia\documents\github\tda-en-c\tda_pila\main.c
+	"pilaDinamica/pilaDinamica.h"
+
+1733332441 c:\users\matia\documents\github\tda-en-c\tda_pila\piladinamica\piladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
