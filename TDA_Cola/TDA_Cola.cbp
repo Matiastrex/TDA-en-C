@@ -35,21 +35,13 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="colaDinamica.h" />
-		<Unit filename="funcionesFecha.c">
+		<Unit filename="colaEstatica.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="funcionesFecha.h" />
+		<Unit filename="colaEstatica.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="pedidos.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="pedidos.h" />
-		<Unit filename="producto.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="producto.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
