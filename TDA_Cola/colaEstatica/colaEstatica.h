@@ -3,6 +3,9 @@
 
 #define TAM_COLA 256
 
+#define SIN_MEMORIA -1
+
+#define MIN(x,y) ((x)<(y))? (x) : (y)
 typedef struct{
     char cola[TAM_COLA];
     unsigned pri;
