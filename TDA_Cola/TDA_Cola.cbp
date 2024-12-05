@@ -31,14 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="colaDinamica.c">
+		<Unit filename="colaEstatica/colaEstatica.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="colaDinamica.h" />
-		<Unit filename="colaEstatica.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="colaEstatica.h" />
+		<Unit filename="colaEstatica/colaEstatica.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
